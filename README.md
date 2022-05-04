@@ -1,3 +1,5 @@
+# Các mạng CNN
+* dữ liệu tại một thời điểm : đặc trừng về mặt không gian : 2D
 1998 : LeNet
 
 => Dùng Convolutions thay cho full connected  + pooling để giảm số chiều => giảm số tham số => ít dữ liệu đầu vào => để tránh overfitting
@@ -24,3 +26,8 @@
     * Kết nối dày đặc
 * MobileNet
     * dùng conv 1x1,3x3 -> deptwise conv -> giảm tham số -> tính nhanh
+# ANN
+* Tại nhiều thời điểm : Đặc trưng độc lập về mặt thời gian
+# Recurrent Neural Network
+### Input:
+* chuỗi thông điệp đầu vào : đặc trưng về không gian 1D
