@@ -31,3 +31,9 @@
 # Recurrent Neural Network
 ### Input:
 * chuỗi thông điệp đầu vào : đặc trưng về không gian 1D
+many to one : classification
+* many to many : 
+    * chat bot
+    * dự đoán
+* giải quyết bài toán phân loại và tạo sinh
+* không giải quyết các bài toán dữ liệu không có tính lặp đi lặp lại 
